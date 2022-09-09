@@ -2,7 +2,7 @@
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on ANY AMAZING PROJECT
-- 📫 Uou can reach me on niky4u2nv@gmail.com
+- 📫 You can reach me on mikel.okereafor@gmail.com
 
 <!---
 chuqudee/chuqudee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
