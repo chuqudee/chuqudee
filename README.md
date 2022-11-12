@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuqudee
 - 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning DATA SCIENCE
+- 🌱 I’m currently learning SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on ANY AMAZING PROJECT
 - 📫 You can reach me on mikel.okereafor@gmail.com
 
