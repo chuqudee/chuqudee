@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Chuqudee</h1>
 <h3 align="center">A passionate DATA SCIENTIST and DATA ANALYST</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abela12&label=Profile%20views&color=0e75b6&style=flat" alt="chuqudee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuqudee&label=Profile%20views&color=0e75b6&style=flat" alt="chuqudee" /> </p>
 
 <p align="left"> <a href="https://abel.pages.dev/"><img src="https://github-profile-trophy.vercel.app/?username=chuqudee" alt="chuqudee" /></a> </p>
 
